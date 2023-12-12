@@ -1,0 +1,610 @@
+html,body
+{
+margin:0px;
+padding: 0px;
+background-color: rgb(4, 102, 4);
+background-size:cover;
+}
+.nav
+{
+    background-color: rgb(3, 87, 3);
+    overflow: hidden;
+}
+.nav a
+{
+    float: right;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+}
+.nav img
+{ 
+    background: transparent;
+    color: white;
+    position: absolute;
+    top: 7px;
+    left: 250px;
+    width: 150px;
+    height: 40px;
+}
+.about h1
+{
+    position: absolute;
+    top: 90px;
+    left: 200px;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 45px;
+    text-align: center;
+    color:rgb(230, 197, 11);
+}
+.box1 
+{
+    top: 130px;
+    position: absolute;
+    width: 500px;
+    height: 300px;
+    text-align: center;
+    font-size: 45px;
+    font-family: URW Chancery L;
+    font-weight: bold;
+}
+ .box1 img
+{
+    background: transparent;
+    color: white;
+    position: absolute;
+    top: 70px;
+    left: 220px;
+    width: 150px;
+    height: 150px; 
+    border-radius: 50%;
+}
+.box2 
+{
+    top: 200px;
+    left: 500px;
+    position: absolute;
+    width: 600px;
+    height: 300px;
+    text-align: center;
+    font-size: 25px;
+    font-family: URW Chancery L;
+    font-weight: bold;
+}
+.box2 p 
+{
+    color: white;
+}
+.skills h1
+{
+    position: absolute;
+    top: 330px;
+    left: 200px;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 45px;
+    text-align: center;
+    color:rgb(230, 197, 11);
+}
+.skills h2
+{
+    position: absolute;
+    top: 410px;
+    left: 220px;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color:rgb(230, 197, 11); 
+}
+.skills p
+{
+    color: white;
+}
+.box3
+{
+   
+    top: 440px;
+    left: 300px;
+    position: absolute;
+    width: 600px;
+    height: 300px;
+    text-align: center;
+    font-size: 25px;
+    font-family: URW Chancery L;
+    font-weight: bold; 
+}
+.box3 p
+{
+    color: white;
+}
+.projects h1
+{
+    position: absolute;
+    top: 1100px;
+    left: 200px;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 45px;
+    text-align: center;
+    color:rgb(230, 197, 11);
+}
+.box4
+{
+    top: 1200px;
+    left: 50px;
+    position: absolute;
+    width: 500px;
+    height: 300px;
+    text-align: center;
+    font-size: 25px;
+    font-family: URW Chancery L;
+    font-weight: bold; 
+}
+.box4 p
+{
+    color: white;
+}
+.box5
+{
+   
+    top: 1200px;
+    left: 500px;
+    position: absolute;
+    width: 500px;
+    height: 300px;
+    text-align: center;
+    font-size: 25px;
+    font-family: URW Chancery L;
+    font-weight: bold; 
+}
+.box5 img
+{
+    background: transparent;
+    position:relative;
+    top: 60px;
+    left: 100px;
+    width: 300px;
+    height: 200px; 
+}
+.box6
+{
+   
+    top: 1500px;
+    left: 30px;
+    position: absolute;
+    width: 600px;
+    height: 300px;
+    text-align: center;
+    font-size: 25px;
+    font-family: URW Chancery L;
+    font-weight: bold; 
+}
+.box6 img
+{
+    background: transparent;
+    color: white;
+    position: absolute;
+    top: 60px;
+    left: 100px;
+    width: 300px;
+    height: 200px; 
+}
+.box7
+{
+   
+    top: 1510px;
+    left: 500px;
+    position: absolute;
+    width: 600px;
+    height: 300px;
+    text-align: center;
+    font-size: 25px;
+    font-family: URW Chancery L;
+    font-weight: bold; 
+}
+.box7 p
+{
+    color: white;
+}
+.resume h1
+{
+    position: absolute;
+    top: 1750px;
+    left: 200px;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 45px;
+    text-align: center;
+    color:rgb(230, 197, 11);
+}
+.resume a
+{
+    position: absolute;
+    top: 1850px;
+    left: 250px;
+    color: white;
+    text-align: center;
+    text-decoration:underline;
+    font-size: 25px; 
+}
+.contact h1
+{
+    position: absolute;
+    top: 1850px;
+    left: 200px;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 45px;
+    text-align: center;
+    color:rgb(230, 197, 11);
+}
+.contact h2
+{
+    position: absolute;
+    top: 1950px;
+    left: 220px;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color:rgb(230, 197, 11); 
+}
+.contact p
+{
+    color: white;
+    position: absolute;
+    top:2000px ;
+    left: 220px;
+    font-size: 25px;
+}
+.box8
+{
+    top: 2100px;
+    left: 120px;
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    text-align: center;
+    font-size: 25px;
+    font-family: URW Chancery L;
+    font-weight: bold; 
+}
+.box8 img
+{
+    background: transparent;
+    color: white;
+    position: absolute;
+    top: 60px;
+    left: 100px;
+    width: 30px;
+    height: 30px; 
+}
+.box9
+{
+   
+    top: 2100px;
+    left: 160px;
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    text-align: center;
+    font-size: 25px;
+    font-family: URW Chancery L;
+    font-weight: bold; 
+}
+.box9 img
+{
+    background: transparent;
+    color: white;
+    position: absolute;
+    top: 60px;
+    left: 100px;
+    width: 30px;
+    height: 30px; 
+}
+.box10
+{
+   
+    top: 2100px;
+    left: 200px;
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    text-align: center;
+    font-size: 25px;
+    font-family: URW Chancery L;
+    font-weight: bold; 
+}
+.box10 img
+{
+    background: transparent;
+    color: white;
+    position: absolute;
+    top: 60px;
+    left: 100px;
+    width: 30px;
+    height: 30px; 
+}
+.box11
+{
+   
+    top: 2100px;
+    left: 240px;
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    text-align: center;
+    font-size: 25px;
+    font-family: URW Chancery L;
+    font-weight: bold; 
+}
+.box11 img
+{
+    background: transparent;
+    color: white;
+    position: absolute;
+    top: 60px;
+    left: 100px;
+    width: 30px;
+    height: 30px; 
+}
+.wrap
+{
+    position: absolute;
+    top: 6%;
+    right:6%;
+    transform: translate(-50%,-50%);
+}
+.menu
+{
+    width: 30px;
+    height: 6px;
+    background: white;
+    margin:6px 0;
+    display: none;
+}
+
+@media (max-width:1100px)
+{
+    .box2
+    {
+        left: 400px;
+    }
+}
+@media (max-width:970px)
+{
+    .nav a
+    {
+        padding: 7px 7px;
+        font-size: 15px;
+    }
+    .nav img
+    {
+        width: 100px;
+        height: 20px;
+    }
+    .box2
+    {
+        left: 300px;
+    }
+    .about h1 ,.skills h1,.skills h2,.projects h1,.resume h1,.contact h1,.contact h2
+    {
+        font-size: 35px;
+    }
+    .skills h2
+    {
+        font-size: 20px;  
+    }
+   .about p ,.skills p,.projects p,.resume p,.contact p 
+    {
+        font-size: 25px;
+        margin:0px  auto;
+        left: 0px;
+    }
+    .about img
+    {
+        width: 100px;
+        height: 100px;   
+    }
+    .projects img
+    {
+        width: 200px;
+        height: 100px;    
+    }
+    .box5{left: 400px;}
+    .box7{left: 400px;}
+    .contact p{left: 180px;top:2045px;}
+    .skills h2{top: 400px;}
+}
+@media (max-width:850px)
+{
+    .box2
+    {
+        left: 300px;
+    }
+    .about h1 ,.skills h1,.skills h2,.projects h1,.resume h1,.contact h1,.contact h2
+    {
+        font-size: 30px;
+    }
+    .skills h2
+    {
+        font-size: 15px;  
+    }
+   .about p ,.skills p,.projects p,.resume p,.contact p 
+    {
+        font-size: 20px;
+        margin: 0px auto;
+        left: 0px;
+    }
+    .about img
+    {
+        width: 80px;
+        height: 80px;  
+    }
+    .projects img
+    {
+        width: 100px;
+        height: 70px;    
+    }
+    .box3
+    {
+        padding: 0px 30px 20px;
+        font-size: 15px;
+        line-height: 24px;
+        left: 0px;
+    }
+    .contact p{left: 180px;}
+    .resume a{left: 180px;top: 1820px;}
+    .box7{left: 400px;}
+}
+@media (max-width:750px)
+{
+    .nav a
+    {
+        padding: 4px 4px;
+        font-size: 10px;
+    }
+    .nav img
+    {
+        width: 60px;
+        height: 10px;
+    }
+    .about h1 ,.skills h1,.skills h2,.projects h1,.resume h1,.contact h1,.contact h2
+    {
+        font-size: 25px;
+    }
+    .skills h2
+    {
+        font-size: 10px;  
+    }
+   .about p ,.skills p,.projects p,.resume p,.contact p 
+    {
+        font-size: 15px;
+        margin:0px auto;
+        left: 0px;
+    }
+    .about img
+    {
+        width: 100px;
+        height: 100px;   
+    }
+    .projects img
+    {
+        width: 200px;
+        height: 100px;    
+    }
+    .box2{left: 200px;}
+    .box5{left: 280px;}
+    .box7{left: 290px;}
+    .contact p{left: 180px;top:2045px;}
+}
+@media (max-width:600px)
+{
+    .nav a
+    {
+        padding: 4px 4px;
+        font-size: 6px;
+    }
+    .nav img
+    {
+        width: 60px;
+        height: 10px;
+    }
+    .about h1 ,.skills h1,.skills h2,.projects h1,.resume h1,.contact h1,.contact h2
+    {
+        font-size: 25px;
+    }
+    .skills h2
+    {
+        font-size: 18px;  
+    }
+   .about p ,.skills p,.projects p,.resume p,.contact p 
+    {
+        font-size: 20px;
+        margin: 0px auto;
+        left: 0px;
+    }
+    .about img
+    {
+        width: 100px;
+        height: 100px;   
+    }
+    .projects img
+    {
+        width: 200px;
+        height: 100px;    
+    }
+    .box1 img{display: none;}
+    .box5 img{display: none;}
+    .box6 img{display: none;}
+    .box7{left: 30px;}
+    .box2{left: 35px;}
+    .skills h2{top: 370px;left: 100px;}
+    .contact p{left: 180px;top:2045px;}
+}
+@media (max-width:500px)
+{
+    
+    .nav a  {
+        display:none;
+    }
+    .nav img
+    {
+        width: 0px;
+        height: 0px;
+    }
+    .box1 img
+    {
+        display: none;
+    }
+    .box2{left: 0;}
+    .box7{top:1380px;}
+    .contact h2{left: 150px;top:1900px;}
+    .projects h1{top: 950px;}
+    .box4{top: 1080px;}.resume h1{top: 1600px;}.contact h1{top: 1800px;}
+    .box2 p
+    {
+        padding: 0px 20px 10px;
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .about h1 ,.skills h1,.skills h2,.projects h1,.resume h1,.contact h1,.contact h2
+    {
+        font-size: 25px; text-align: center;
+    }
+    .resume a{left: 180px;top: 1700px;}
+    .skills h2
+    {
+        font-size: 10px;
+        left: 100px;top: 400px;  
+    }
+   .box3{left:0;}
+   .box4{left: 0;}
+   .box5 img{display: none;}
+   .box6 img{display: none;}
+   .box7{left: 0;}
+   .box3 p
+    {
+        padding: 0px 25px 15px;
+        font-size: 13px;
+        line-height: 24px;
+    
+    }
+    .box4 p
+    {
+        padding: 0px 30px 20px;
+        font-size: 20px;
+        line-height: 24px;
+        left: 0px;
+    }
+    .box7 p
+    {
+        padding: 0px 30px 20px;
+        font-size: 20px;
+        line-height: 24px;
+    }
+    .contact p{left: 180px;top:2000px;}
+    .menu{display: block;}
+}
